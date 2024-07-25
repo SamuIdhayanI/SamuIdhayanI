@@ -39,10 +39,14 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 
   [![](https://visitcount.itsvg.in/api?id=SamuIdhayanI&icon=4&color=3)](https://visitcount.itsvg.in)
 
+
+
 </div>
 
+<div align="center">
 
 
-#### Explore My Projects 💻 👇🏻👇🏻
+## Explore My Projects 💻 👇🏻👇🏻
 
+</div>
 
