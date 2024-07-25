@@ -37,8 +37,7 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=SamuIdhayanI&icon=4&color=3)](https://visitcount.itsvg.in)
-
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 </div>
