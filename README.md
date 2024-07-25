@@ -1,5 +1,6 @@
 # 💫 About Me:
-Greetings! I'm a dedicated college student at Karunya University of Technology and Sciences, on an exciting journey to major in Computer Science and Engineering with a specialization in AI. 🤖 💻 My profound belief in the transformative power of programming fuels my drive to create innovative solutions that positively impact lives across the globe. 🌍 ✨ <br>Connect with me to explore opportunities, exchange ideas, or simply chat about our shared passion for programming and AI. Together, we can shape a smarter, more connected future! 🚀🌍  <br>Let's innovate and inspire! 💡💪 <br>
+Greetings! I'm a dedicated college student at Karunya University of Technology and Sciences, on an exciting journey to major in Computer Science and Engineering with a specialization in AI. 🤖 💻 My profound belief in the transformative power of programming fuels my drive to create innovative solutions that positively impact lives across the globe. 🌍 ✨ 
+<br><br>Connect with me to explore opportunities, exchange ideas, or simply chat about our shared passion for programming and AI. Together, we can shape a smarter, more connected future! 🚀🌍  <br><br>Let's innovate and inspire! 💡💪 <br>
 
 
 # 🌐 Socials:
