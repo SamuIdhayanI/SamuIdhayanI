@@ -6,7 +6,7 @@
 ----------------------------------------------------------------------------------------------------------------
 ##### 🌐 Leadership
 
-   Surprising even myself, my leadership skills seamlessly blend with my technical prowess, enabling me to guide and inspire others towards achieving their best.
+Surprising even myself, my leadership skills seamlessly blend with my technical prowess, enabling me to guide and inspire others towards achieving their best.
 ----------------------------------------------------------------------------------------------------------------
 ##### 📈 Unveiling Insights with Data
 
