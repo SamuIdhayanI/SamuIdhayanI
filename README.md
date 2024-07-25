@@ -1,6 +1,8 @@
-##### Greetings! I'm a dedicated college student at Karunya University of Technology and Sciences, on an exciting journey to major in Computer Science and Engineering with a specialisation in AI. My profound belief in the transformative power of programming fuels my drive to create innovative solutions that positively impact lives across the globe.
+### Greetings! I'm a dedicated college student at Karunya University of Technology and Sciences, on an exciting journey to major in Computer Science and Engineering with a specialisation in AI. My profound belief in the transformative power of programming fuels my drive to create innovative solutions that positively impact lives across the globe.
 ----------------------------------------------------------------------------------------------------------------
-##### 🌟 Why Me?
+#🌟 Why Me?
+
+
 Coding is not just my skill – it's my way of shaping the world. Whether it's developing cutting-edge applications or leading dynamic teams to success, I find my purpose in harnessing the possibilities of technology.
 ----------------------------------------------------------------------------------------------------------------
 ##### 🌐 Leadership
