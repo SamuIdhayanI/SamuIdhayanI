@@ -28,7 +28,7 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 
 <div align="center">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   
 </div>
@@ -49,4 +49,5 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 ## Explore My Projects 💻 👇🏻👇🏻
 
 </div>
+
 
