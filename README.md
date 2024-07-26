@@ -13,8 +13,8 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 ## 📊 GitHub Stats:
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuIdhayanI&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuIdhayanI&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 --------------------------------------------------------------------------------------------------------
@@ -22,13 +22,13 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 ## 🔝 Top Contributed Repo:
 <div align="center">
 
-  ![](https://github-contributor-stats.vercel.app/api?username=SamuIdhayanI&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=SamuIdhayanI&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 </div>
 
 <div align="center">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   
 </div>
@@ -37,7 +37,7 @@ Greetings! I'm a dedicated college student at Karunya University of Technology a
 
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=SamuIdhayanI&icon=4&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SamuIdhayanI&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
 
