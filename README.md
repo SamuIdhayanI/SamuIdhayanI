@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="[https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png](https://www.canva.com/design/DAGMBCRhUoI/5rysOubWu04blYngPhXUPA/view?utm_content=DAGMBCRhUoI&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="my banner"></a>
+  
+  <img width="1192" alt="Screenshot 2024-07-26 at 10 04 10 AM" src="https://github.com/user-attachments/assets/ca971412-a9d0-402c-b502-5e3e7763df93">
+
 </p>
 
 ## 💫 About Me:
